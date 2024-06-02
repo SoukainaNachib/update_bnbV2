@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+export HBNB_ENV=dev
+export HBNB_MYSQL_USER=your_mysql_user
+export HBNB_MYSQL_PWD=your_mysql_password
+export HBNB_MYSQL_HOST=your_mysql_host
+export HBNB_MYSQL_DB=your_mysql_db
+export HBNB_TYPE_STORAGE=file
+
